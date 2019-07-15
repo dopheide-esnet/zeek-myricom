@@ -1,4 +1,4 @@
-#include "zeek-config.h"
+#include "bro-config.h"
 
 #include "Myricom.h"
 #include "myricom.bif.h"
